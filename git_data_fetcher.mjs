@@ -2,6 +2,12 @@ import fetch from "node-fetch";
 import fs from "fs";
 import dotenv from "dotenv";
 
+
+/*ORgs
+  {"data":[{"login":"Linux Kernel","avatarUrl":"https://kernel.org/theme/images/logos/tux.png","__typename":"Organization"},
+  {"login":"Libre Office","avatarUrl":"https://www.icons101.com/icon_png/size_512/id_77230/LibreOffice.png","__typename":"Organization"} ]}
+*/ 
+
 dotenv.config();
 
 const openSource = {

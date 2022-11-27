@@ -1,1 +1,487 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 18,
+  "data": [
+    {
+      "id": "I_kwDODqGIis5XWHzQ",
+      "closed": true,
+      "title": "Errror in running \"node git_data_fetcher.mjs\"",
+      "createdAt": "2022-11-27T11:55:27Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/265",
+      "number": 265,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "login": "ashutosh1919",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4_vebt",
+      "closed": false,
+      "title": "Define the initial model on the new branch.",
+      "createdAt": "2021-12-02T10:59:04Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4_veE6",
+      "closed": false,
+      "title": "Make navbar collapse effect pretty.",
+      "createdAt": "2021-12-02T10:57:32Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4_FT15",
+      "closed": true,
+      "title": "Define template for MyWishlist ",
+      "createdAt": "2021-11-19T10:07:27Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4_FRVg",
+      "closed": false,
+      "title": "Define template for Payment Page (TENTETIVE) ",
+      "createdAt": "2021-11-19T09:57:00Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4_FQz9",
+      "closed": false,
+      "title": "Define template for Order Summary.",
+      "createdAt": "2021-11-19T09:54:33Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1sz6",
+      "closed": false,
+      "title": "Define MyBag template (Static)",
+      "createdAt": "2021-11-15T23:46:40Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1swd",
+      "closed": true,
+      "title": "Define product_details tempalte (Static)",
+      "createdAt": "2021-11-15T23:46:10Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1ssh",
+      "closed": true,
+      "title": "Define category_listing template (Static)",
+      "createdAt": "2021-11-15T23:45:33Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1sjI",
+      "closed": true,
+      "title": "Define MyAddresses template. (Static)",
+      "createdAt": "2021-11-15T23:44:13Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1sc7",
+      "closed": true,
+      "title": "Define MyPayments template (static)",
+      "createdAt": "2021-11-15T23:43:13Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1sTw",
+      "closed": true,
+      "title": "Define MyOrders template. (Static)",
+      "createdAt": "2021-11-15T23:41:57Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1sLn",
+      "closed": true,
+      "title": "Implement Login & Signup templates (Static)",
+      "createdAt": "2021-11-15T23:41:07Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-1Jkd",
+      "closed": true,
+      "title": "Implement MyAccount template(static).",
+      "createdAt": "2021-11-15T21:33:42Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-vgsx",
+      "closed": true,
+      "title": "Implement Fanbook Responsive ",
+      "createdAt": "2021-11-13T09:45:55Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-pYMP",
+      "closed": true,
+      "title": "IMPLEMENT YOU MAY ALSO LIKE CARD GRID IN INDEX TEMPLATE",
+      "createdAt": "2021-11-11T14:25:40Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-pX-a",
+      "closed": true,
+      "title": "IMPLEMENT ACCESORIES FOR YOU GRID IN INDEX TEMPALTE.",
+      "createdAt": "2021-11-11T14:24:43Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-pXtR",
+      "closed": true,
+      "title": "ADD REFER AND CHILL JUMBOTRON TO INDEX TEMPLATE.",
+      "createdAt": "2021-11-11T14:23:33Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-pXLF",
+      "closed": false,
+      "title": "Fix number of elements issues across various screen-sizes. In each and every carousel across all templates and layouts. ",
+      "createdAt": "2021-11-11T14:21:16Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-pWX2",
+      "closed": true,
+      "title": "Exclusive Jumbotron (DARK) inside index template",
+      "createdAt": "2021-11-11T14:18:05Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-o58z",
+      "closed": true,
+      "title": "Trending carousel group 5 elemetns in LG and XL, 3 elemets in MD, and 2 elements in SM and single element in XS. In index template",
+      "createdAt": "2021-11-11T12:07:01Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-o5gw",
+      "closed": true,
+      "title": "Arun Special Carousel Grouping 3 elements in lg and xl screens. In index template",
+      "createdAt": "2021-11-11T12:04:57Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-orV8",
+      "closed": true,
+      "title": "Categories Grid",
+      "createdAt": "2021-11-11T10:56:06Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGW5llc4-op-c",
+      "closed": true,
+      "title": "Add WHAT's NEW carousel to index template",
+      "createdAt": "2021-11-11T10:49:28Z",
+      "url": "https://github.com/pragat-pandya/Django_Ecommerce/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Django_Ecommerce",
+        "url": "https://github.com/pragat-pandya/Django_Ecommerce",
+        "owner": {
+          "login": "pragat-pandya",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26811319?u=503ed05a7b27d54aeb10190a9f45516280d78c25&v=4",
+          "url": "https://github.com/pragat-pandya"
+        }
+      }
+    }
+  ],
+  "open": 6,
+  "totalCount": 24
+}
