@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Pragat's Portfolio",
+  title: "Pragat Pandya Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Pragat Hathidara Portfolio",
+    title: "Pragat Portfolio",
     type: "website",
-    url: "http://pragat-pandya.github.io",
+    url: "https://pragat-pandya.github.io",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://docs.google.com/document/d/12cs6vfOLTOyTTcqXuT510MStD90W2EsO0U6jt1x-wzE/edit?usp=share_link",
+    "https://drive.google.com/file/d/1Brduu7qdv4WYhX_rgj_4aY4oiboIJ9lq/view?usp=sharing",
   portfolio_repository: "https://github.com/pragat-pandya/masterPortfolio",
   githubProfile: "https://github.com/pragat-pandya",
 };
@@ -51,91 +51,87 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "Gmail",
-    link: "mailto:pragat.pandya@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/pandya_pragat",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/pragat.pandya.10/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/_web_nomad_._/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
+  // {
+  //   name: "Gmail",
+  //   link: "mailto:pragat.pandya@gmail.com",
+  //   fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+  //   backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  // },
+  // {
+  //   name: "Twitter",
+  //   link: "https://twitter.com/pandya_pragat",
+  //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+  //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  // },
+  // {
+  //   name: "Facebook",
+  //   link: "https://www.facebook.com/pragat.pandya.10/",
+  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  // },
+  // {
+  //   name: "Instagram",
+  //   link: "https://www.instagram.com/_web_nomad_._/",
+  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  // },
 ];
 
 const skills = {
   data: [
     {
-      title: "Data Analysis & Visualization",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable and training ready data-sets",
-        "⚡ Experience of working with Pandas, Numpy, Plotly, matplotlib etc.",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "metplotlib",
-          fontAwesomeClassname: "logos:matplotlib",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "Numpy",
-          fontAwesomeClassname: "logos:numpy",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Jupyter",
-          fontAwesomeClassname: "logos:jupyter",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux & Bootstrap",
-        "⚡ Developing Android applications using Kotlin and Java",
-        "⚡ Creating application backend in Node, Express, Django & Flask",
+        "⚡ Building responsive website front end using React & Bootstrap.",
+        "⚡ Developing Cross-Platform applications using Dart and Flutter.",
+        "⚡ Microservices-based software architectures for scalable and maintainable applications.",
+        "⚡ RESTful API Development.",
       ],
       softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "Flask",
+          fontAwesomeClassname: "simple-icons:flask",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "Django",
+          fontAwesomeClassname: "logos:django-icon",
+          style: {
+            color: "#CB3837",
+          },
+        },
+        {
+          skillName: "Dart",
+          fontAwesomeClassname: "logos:dart",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "logos:flutter",
+          style: {
+            color: "#02569B",
+          },
+        },
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -151,18 +147,10 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "Qt5",
+          fontAwesomeClassname: "simple-icons:qt",
           style: {
             color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
           },
         },
         {
@@ -172,32 +160,59 @@ const skills = {
             color: "#61DAFB",
           },
         },
+      ],
+    },
+    {
+      title: "Deep Learning & Computer Vision",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable and training ready data-sets",
+        "⚡ Developed and trained object detection and feature extraction models on local dataset",
+        "⚡ Worked on a road pavement analysis project using the YOLOv4 model for classification of cracks.",
+      ],
+      softwareSkills: [
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "TensorFlow",
+          fontAwesomeClassname: "simple-icons:tensorflow",
           style: {
-            color: "#339933",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Django",
-          fontAwesomeClassname: "logos:django-icon",
+          skillName: "pyTorch",
+          fontAwesomeClassname: "logos:pytorch",
           style: {
-            color: "#CB3837",
+            backgroundColor: "white",
+            color: "#D00000",
           },
         },
         {
-          skillName: "Kotlin",
-          fontAwesomeClassname: "logos:kotlin-icon",
+          skillName: "Numpy",
+          fontAwesomeClassname: "logos:numpy",
           style: {
-            color: "#663399",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Java",
-          fontAwesomeClassname: "logos:java",
+          skillName: "OpenCV",
+          fontAwesomeClassname: "logos:opencv",
           style: {
-            color: "#02569B",
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Roboflow",
+          fontAwesomeClassname: "simple-icons:roboflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -206,9 +221,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Experience working on multiple cloud platforms (AWS/GCP)",
+        "⚡ Hosting and maintaining applications in containerized fashion",
+        "⚡ Integration of message queues such as Kafka, AWS SQS, RabbitMQ between micro-services",
       ],
       softwareSkills: [
         {
@@ -223,13 +238,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
           },
         },
         {
@@ -258,14 +266,7 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
+          skillName: "Bootstrap",
           fontAwesomeClassname: "logos:bootstrap",
           style: {
             color: "#F24E1E",
@@ -286,38 +287,50 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/pragat_pandya",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/pragat_pandya",
-    },
+    //     {
+    //       siteName: "HackerRank",
+    //       iconifyClassname: "simple-icons:hackerrank",
+    //       style: {
+    //         color: "#2EC866",
+    //       },
+    //       profileLink: "https://www.hackerrank.com/pragat_pandya",
+    //     },
+    //     {
+    //       siteName: "Codechef",
+    //       iconifyClassname: "simple-icons:codechef",
+    //       style: {
+    //         color: "#5B4638",
+    //       },
+    //       profileLink: "https://www.codechef.com/users/pragat_pandya",
+    //     },
   ],
 };
 
 const degrees = {
   degrees: [
     {
+      title: "BITS Pilani, Pilani Campus.",
+      subtitle: "M.E. in Software Systems",
+      logo_path: "BITS_Pilani-Logo.svg",
+      alt_name: "S.S.E.C, Bhavnagar",
+      duration: "Graduating in 2025",
+      descriptions: [
+        "⚡ I have studied Software Architecture, Data Mining, Object Oriented Design, Deep Learning, Data Warehousing and other advanced topics as part of university curicullum",
+        "⚡ Apart from this, I have indulged in research projects in the domain of Computer Vision.",
+      ],
+      website_link: "https://www.bits-pilani.ac.in/",
+    },
+    {
       title: "Shree Shantilal Shah Government Engineering College.",
       subtitle: "B.E. in Information and Technology",
       logo_path: "ss_logo.png",
       alt_name: "S.S.E.C, Bhavnagar",
-      duration: "2017 - 2023",
+      duration: "2023",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like Blockchains, DBMS, OS, COA, AI, ML, Computer Vision etc.",
         "⚡ Apart from this, I have done courses on Discrete Mathematics, Data Science and Linux Kernel Development.",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "https://www.ssgec.ac.in/",
     },
   ],
 };
@@ -419,21 +432,6 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Actively Looking for work!",
-          company: "",
-          company_url: "",
-          logo_path: "hire.jpg",
-          duration: "PRESENT",
-          location: "",
-          description: "Please consider this portal as my resume!",
-          color: "#0879bf",
-        },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        {
           title: "Full-Stack Intern",
           company: "Optic Liting Pvt., Ltd.,",
           company_url: "https://www.opticliting.com/",
@@ -445,18 +443,90 @@ const experience = {
           color: "#ee3c26",
         },
         {
-          title: "Python Intern",
-          company: "Robotronlab",
-          company_url: "http://robotronlab.com/",
-          logo_path: "robotron.jpg",
-          duration: "Nov 2020 - January 2021",
-          location: "Work From Home",
+          title: "FullStack Python Intern",
+          company: "Ouiteo Technologies",
+          company_url: "https://ouiteo.com/",
+          logo_path: "ouiteo_logo.png",
+          duration: "Jan 2023 - July 2023",
+          location: "Gujarat, India",
           description:
-            "This is a Robotics company, I worked on creation of many customized robotics kits suitable for training children.",
+            "Developed Flask API, Modularized existing codebase, Streamlined automated testing, Maintained QA Servers, and CI/CD pipelines on AWS Lightsail.",
+          color: "#0071C5",
+        },
+        {
+          title: "BITS Pilani / Research Assistant",
+          company: "BITS Pilani, Pilani Campus",
+          company_url: "https://www.bits-pilani.ac.in/",
+          logo_path: "BITS_Pilani-Logo.svg",
+          duration: "August 2023 - December 2023",
+          location: "Pilani, India",
+          description:
+            "Computer Vision: Road Pavement Analysis using YOLOv4 under guidance of Dr. Pratik Narang",
+          color: "#0071C5",
+        },
+        {
+          title: "BITS Pilani / Teaching Assistant",
+          company: "BITS Pilani, Pilani Campus",
+          company_url: "https://www.bits-pilani.ac.in/",
+          logo_path: "BITS_Pilani-Logo.svg",
+          duration: "January 2024 - June 2024",
+          location: "Pilani, India",
+          description:
+            "Software Architectures: Microservices, Desing Patterns, Documenting the Software Architecture for a project under guidance of Dr. Tanmay Mahapatra",
+          color: "#0071C5",
+        },
+        {
+          title: "Caffae / Co-Founder and CTO",
+          company: "Caffae Private Limited",
+          company_url: "https://caffae.in/",
+          logo_path: "contactLogo.png",
+          duration: "April 2024 - Present",
+          location: "Pilani, India",
+          description:
+            "Developed a cross platform application using Dart and Flutter, for 1:1 mentoring start-up funded by PIEDS (BITS Pilani Incubation Center)",
           color: "#0071C5",
         },
       ],
+      // experiences: [
+      //   {
+      //     title: "Actively Looking for Opportunites!",
+      //     company: "",
+      //     company_url: "",
+      //     logo_path: "hire.jpg",
+      //     duration: "PRESENT",
+      //     location: "",
+      //     description: "Please consider this portal as my resume!",
+      //     color: "#0879bf",
+      //   },
+      // ],
     },
+    // {
+    //   // title: "Internships",
+    // experiences: [
+    //   {
+    //     title: "Full-Stack Intern",
+    //     company: "Optic Liting Pvt., Ltd.,",
+    //     company_url: "https://www.opticliting.com/",
+    //     logo_path: "optic.png",
+    //     duration: "June 2022 - August 2022",
+    //     location: "Ahmedabad, Gujarat",
+    //     description:
+    //       "I have worked on the creating a manufacturing cost estimation software dedicated for the internal use.",
+    //     color: "#ee3c26",
+    //   },
+    //   {
+    //     title: "Python Intern",
+    //     company: "Robotronlab",
+    //     company_url: "http://robotronlab.com/",
+    //     logo_path: "robotron.jpg",
+    //     duration: "Nov 2020 - January 2021",
+    //     location: "Work From Home",
+    //     description:
+    //       "This is a Robotics company, I worked on creation of many customized robotics kits suitable for training children.",
+    //     color: "#0071C5",
+    //   },
+    // ],
+    // },
     {
       title: "Volunteerships",
       experiences: [
@@ -507,7 +577,7 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  // title: "Publications",
   description:
     "I plan on doing research and pulishing my own publications in future...",
   avatar_image_path: "projects_image.svg",
@@ -515,14 +585,14 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
   ],
 };
 
@@ -532,7 +602,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "psp.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with AI/ML, Django, Node, Cloud and Opensource Development.",
+      "You can reach out to my email provided below. I can help you with AI/ML, Django, Node, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -543,9 +613,9 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "T.A.-Palitana, Dist.-Bhavnagar, Gujarat -364270",
+    subtitle: "pragat.pandya@gmail.com",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/3fei1euY6y6PEiMe9",
+    // location_map_link: "https://goo.gl/maps/3fei1euY6y6PEiMe9",
   },
   phoneSection: {
     title: "Phone Number",
