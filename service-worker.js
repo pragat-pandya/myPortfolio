@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "pragat-pandya.github.io/precache-manifest.044827bbefc143168986354fd10c8b6f.js"
+  "pragat-pandya.github.io/precache-manifest.18593110cbb6bf2841923347b4ba48f4.js"
 );
 
 self.addEventListener('message', (event) => {

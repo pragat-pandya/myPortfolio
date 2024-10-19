@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "pragat-pandya.github.io/static/css/main.fcc01587.chunk.css",
-    "main.js": "pragat-pandya.github.io/static/js/main.f8d48941.chunk.js",
-    "main.js.map": "pragat-pandya.github.io/static/js/main.f8d48941.chunk.js.map",
+    "main.js": "pragat-pandya.github.io/static/js/main.69212e7c.chunk.js",
+    "main.js.map": "pragat-pandya.github.io/static/js/main.69212e7c.chunk.js.map",
     "runtime-main.js": "pragat-pandya.github.io/static/js/runtime-main.99329929.js",
     "runtime-main.js.map": "pragat-pandya.github.io/static/js/runtime-main.99329929.js.map",
-    "static/js/2.2e1f5c10.chunk.js": "pragat-pandya.github.io/static/js/2.2e1f5c10.chunk.js",
-    "static/js/2.2e1f5c10.chunk.js.map": "pragat-pandya.github.io/static/js/2.2e1f5c10.chunk.js.map",
+    "static/js/2.11a6031b.chunk.js": "pragat-pandya.github.io/static/js/2.11a6031b.chunk.js",
+    "static/js/2.11a6031b.chunk.js.map": "pragat-pandya.github.io/static/js/2.11a6031b.chunk.js.map",
     "index.html": "pragat-pandya.github.io/index.html",
-    "precache-manifest.044827bbefc143168986354fd10c8b6f.js": "pragat-pandya.github.io/precache-manifest.044827bbefc143168986354fd10c8b6f.js",
+    "precache-manifest.18593110cbb6bf2841923347b4ba48f4.js": "pragat-pandya.github.io/precache-manifest.18593110cbb6bf2841923347b4ba48f4.js",
     "service-worker.js": "pragat-pandya.github.io/service-worker.js",
     "static/css/main.fcc01587.chunk.css.map": "pragat-pandya.github.io/static/css/main.fcc01587.chunk.css.map",
     "static/media/index.css": "pragat-pandya.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/BITS_Pilani-Logo.svg": "pragat-pandya.github.io/static/media/BITS_Pilani-Logo.8ee22563.svg",
     "static/media/UCsan.png": "pragat-pandya.github.io/static/media/UCsan.883f8a3a.png",
     "static/media/address_image.svg": "pragat-pandya.github.io/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "pragat-pandya.github.io/static/media/animated_ashutosh.be4f4800.png",
@@ -61,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.99329929.js",
-    "static/js/2.2e1f5c10.chunk.js",
+    "static/js/2.11a6031b.chunk.js",
     "static/css/main.fcc01587.chunk.css",
-    "static/js/main.f8d48941.chunk.js"
+    "static/js/main.69212e7c.chunk.js"
   ]
 }

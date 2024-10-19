@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af1fe0b318cfa479b97913b630aa2c87",
+    "revision": "88626c4bdbe6f98268e7dcb33838ad2f",
     "url": "pragat-pandya.github.io/index.html"
   },
   {
-    "revision": "89e28e2a3bd8d54f0dcb",
+    "revision": "999f64828bf029544b46",
     "url": "pragat-pandya.github.io/static/css/main.fcc01587.chunk.css"
   },
   {
-    "revision": "a6712e0308b94a7318ff",
-    "url": "pragat-pandya.github.io/static/js/2.2e1f5c10.chunk.js"
+    "revision": "eb26cbd0c490c4eb333e",
+    "url": "pragat-pandya.github.io/static/js/2.11a6031b.chunk.js"
   },
   {
-    "revision": "89e28e2a3bd8d54f0dcb",
-    "url": "pragat-pandya.github.io/static/js/main.f8d48941.chunk.js"
+    "revision": "999f64828bf029544b46",
+    "url": "pragat-pandya.github.io/static/js/main.69212e7c.chunk.js"
   },
   {
     "revision": "4ff67d92e1a3572868dc",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "pragat-pandya.github.io/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "8ee22563394cafebc2e3aaed946881ea",
+    "url": "pragat-pandya.github.io/static/media/BITS_Pilani-Logo.8ee22563.svg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
