@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
@@ -68,13 +69,22 @@ class Contact extends Component {
                   {blogSection["subtitle"]}
                 </p>
                 <div className="blogsite-btn-div">
-                  <Button text="Blogs Comming Soon!" theme={theme} />
+                  {/* <Button text="Blogs Comming Soon!" theme={theme} /> */}
                   {/* /*<Button
                     text="Visit My Blogsite"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}
                   /> */}
+                  <div className="blogsite-btn-div">
+                    <Link to="/blogs">
+                      <Button
+                        style={{ backgroundColor: theme.buttonColor }}
+                        text="Visit My Blogsite"
+                        theme={theme}
+                      ></Button>
+                    </Link>
+                  </div>
                 </div>
               </div>
               <div className="blog-heading-img-div">

@@ -9,6 +9,9 @@ import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
+import BlogRenderInSingleCard from "../pages/blogs/components/Blogs";
+import SelectedBlog from "../pages/blogs/components/SelectedBlog";
+import HeadingOfBlogs from "../pages/blogs/components/HeadingOfBlogs";
 
 export default class Main extends Component {
   render() {
@@ -51,6 +54,25 @@ export default class Main extends Component {
                 path="/contact"
                 render={(props) => (
                   <Contact {...props} theme={this.props.theme} />
+                )}
+              />
+              <Route
+                path="/blogs"
+                exact
+                render={(props) => (
+                  <div>
+                    <HeadingOfBlogs theme={this.props.theme} />
+                    <BlogRenderInSingleCard
+                      {...props}
+                      theme={this.props.theme}
+                    />
+                  </div>
+                )}
+              />
+              <Route
+                path="/blogs/:id"
+                render={(props) => (
+                  <SelectedBlog {...props} theme={this.props.theme} />
                 )}
               />
               <Route
@@ -112,6 +134,25 @@ export default class Main extends Component {
                 path="/contact"
                 render={(props) => (
                   <Contact {...props} theme={this.props.theme} />
+                )}
+              />
+              <Route
+                path="/blogs"
+                exact
+                render={(props) => (
+                  <div>
+                    <HeadingOfBlogs theme={this.props.theme} />
+                    <BlogRenderInSingleCard
+                      {...props}
+                      theme={this.props.theme}
+                    />
+                  </div>
+                )}
+              />
+              <Route
+                path="/blogs/:id"
+                render={(props) => (
+                  <SelectedBlog {...props} theme={this.props.theme} />
                 )}
               />
               {/* <Route
